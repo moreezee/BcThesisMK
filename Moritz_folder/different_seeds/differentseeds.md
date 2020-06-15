@@ -28,7 +28,7 @@ def meancalc2(Hessian_diag_x):
   mean variances of layer 7.bias: 0.0108; 0.0109; 0.0107; 0.0109; 0.0108; 0.0108; 0.0109; 0.0106; 0.0109; 0.0107
   ```
 
-<img src="/Users/moreez/Desktop/BcThesis/GitHub/BcThesisMK/Moritz_folder/different_seeds/precision120plot.png" alt="precision120plot" style="zoom:80%;" />
+<img src="./precision120plot.png" alt="precision120plot" style="zoom:80%;" />
 
 * ```python
   precision 1000:
@@ -40,7 +40,7 @@ def meancalc2(Hessian_diag_x):
   mean variance of layer 7.bias: 0.0034; 0.0036; 0.0034; 0.0036; 0.0035; 0.0034; 0.0036; 0.0032; 0.0036; 0.0034
   ```
 
-<img src="/Users/moreez/Desktop/BcThesis/GitHub/BcThesisMK/Moritz_folder/different_seeds/precision1000plot.png" alt="precision1000plot" style="zoom:80%;" />
+<img src="./precision1000plot.png" alt="precision1000plot" style="zoom:80%;" />
 
 ### Visulization of the whole linear layer uncertainty (precision = 1000).
 
