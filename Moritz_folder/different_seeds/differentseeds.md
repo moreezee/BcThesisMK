@@ -57,11 +57,11 @@ plt.tight_layout()
 plt.show()
 ```
 
-<img src="/Users/moreez/Desktop/BcThesis/GitHub/BcThesisMK/Moritz_folder/different_seeds/linear1000_seed=9.png" alt="linear1000_seed=9" style="zoom:80%;" /><img src="/Users/moreez/Desktop/BcThesis/GitHub/BcThesisMK/Moritz_folder/different_seeds/linear1000_seed=10.png" alt="linear1000_seed=10" style="zoom:80%;" /><img src="/Users/moreez/Desktop/BcThesis/GitHub/BcThesisMK/Moritz_folder/different_seeds/linear1000_seed=19.png" alt="linear1000_seed=19" style="zoom:80%;" /><img src="/Users/moreez/Desktop/BcThesis/GitHub/BcThesisMK/Moritz_folder/different_seeds/linear1000_seed=30.png" alt="linear1000_seed=30" style="zoom:80%;" />
+<img src="./linear1000_seed=9.png" alt="linear1000_seed=9" style="zoom:80%;" /><img src="./linear1000_seed=10.png" alt="linear1000_seed=10" style="zoom:80%;" /><img src="./linear1000_seed=19.png" alt="linear1000_seed=19" style="zoom:80%;" /><img src="./linear1000_seed=30.png" alt="linear1000_seed=30" style="zoom:80%;" />
 
-<img src="/Users/moreez/Desktop/BcThesis/GitHub/BcThesisMK/Moritz_folder/different_seeds/linear1000_seed=40.png" alt="linear1000_seed=40" style="zoom:80%;" /><img src="/Users/moreez/Desktop/BcThesis/GitHub/BcThesisMK/Moritz_folder/different_seeds/linear1000_seed=42.png" alt="linear1000_seed=42" style="zoom:80%;" />
+<img src="./linear1000_seed=40.png" alt="linear1000_seed=40" style="zoom:80%;" /><img src="./linear1000_seed=42.png" alt="linear1000_seed=42" style="zoom:80%;" />
 
-<img src="/Users/moreez/Desktop/BcThesis/GitHub/BcThesisMK/Moritz_folder/different_seeds/linear1000_seed=98.png" alt="linear1000_seed=98" style="zoom:80%;" /><img src="/Users/moreez/Desktop/BcThesis/GitHub/BcThesisMK/Moritz_folder/different_seeds/linear1000_seed=124.png" alt="linear1000_seed=124" style="zoom:80%;" />
+<img src="./linear1000_seed=98.png" alt="linear1000_seed=98" style="zoom:80%;" /><img src="./linear1000_seed=124.png" alt="linear1000_seed=124" style="zoom:80%;" />
 
-<img src="./linear1000_seed=555.png" alt="linear1000_seed=555" style="zoom:80%;" /><img src="/Users/moreez/Desktop/BcThesis/GitHub/BcThesisMK/Moritz_folder/different_seeds/linear1000_seed=9.png" alt="linear1000_seed=9" style="zoom:80%;" />
+<img src="./linear1000_seed=555.png" alt="linear1000_seed=555" style="zoom:80%;" /><img src="./linear1000_seed=9.png" alt="linear1000_seed=9" style="zoom:80%;" />
 
