@@ -28,7 +28,7 @@ def meancalc2(Hessian_diag_x):
   mean variances of layer 7.bias: 0.0108; 0.0109; 0.0107; 0.0109; 0.0108; 0.0108; 0.0109; 0.0106; 0.0109; 0.0107
   ```
 
-<img src="./precision120plot.png" alt="precision120plot" style="zoom:80%;" />
+<img src="/Users/moreez/Desktop/BcThesis/GitHub/BcThesisMK/Moritz_folder/different_seeds/precision120plot.png" alt="precision120plot" style="zoom:80%;" />
 
 * ```python
   precision 1000:
@@ -40,7 +40,7 @@ def meancalc2(Hessian_diag_x):
   mean variance of layer 7.bias: 0.0034; 0.0036; 0.0034; 0.0036; 0.0035; 0.0034; 0.0036; 0.0032; 0.0036; 0.0034
   ```
 
-<img src="./precision1000plot.png" alt="precision1000plot" style="zoom:80%;" />
+<img src="/Users/moreez/Desktop/BcThesis/GitHub/BcThesisMK/Moritz_folder/different_seeds/precision1000plot.png" alt="precision1000plot" style="zoom:80%;" />
 
 ### Visulization of the whole linear layer uncertainty (precision = 1000).
 
@@ -57,11 +57,11 @@ plt.tight_layout()
 plt.show()
 ```
 
-<img src="./linear1000_seed=9.png" alt="linear1000_seed=9" style="zoom:80%;" /><img src="./linear1000_seed=10.png" alt="linear1000_seed=10" style="zoom:80%;" /><img src="./linear1000_seed=19.png" alt="linear1000_seed=19" style="zoom:80%;" /><img src="./linear1000_seed=30.png" alt="linear1000_seed=30" style="zoom:80%;" />
+<img src="/Users/moreez/Desktop/BcThesis/GitHub/BcThesisMK/Moritz_folder/different_seeds/linear1000_seed=9.png" alt="linear1000_seed=9" style="zoom:80%;" /><img src="/Users/moreez/Desktop/BcThesis/GitHub/BcThesisMK/Moritz_folder/different_seeds/linear1000_seed=10.png" alt="linear1000_seed=10" style="zoom:80%;" /><img src="/Users/moreez/Desktop/BcThesis/GitHub/BcThesisMK/Moritz_folder/different_seeds/linear1000_seed=19.png" alt="linear1000_seed=19" style="zoom:80%;" /><img src="/Users/moreez/Desktop/BcThesis/GitHub/BcThesisMK/Moritz_folder/different_seeds/linear1000_seed=30.png" alt="linear1000_seed=30" style="zoom:80%;" />
 
-<img src="./linear1000_seed=40.png" alt="linear1000_seed=40" style="zoom:80%;" /><img src="./linear1000_seed=42.png" alt="linear1000_seed=42" style="zoom:80%;" />
+<img src="/Users/moreez/Desktop/BcThesis/GitHub/BcThesisMK/Moritz_folder/different_seeds/linear1000_seed=40.png" alt="linear1000_seed=40" style="zoom:80%;" /><img src="/Users/moreez/Desktop/BcThesis/GitHub/BcThesisMK/Moritz_folder/different_seeds/linear1000_seed=42.png" alt="linear1000_seed=42" style="zoom:80%;" />
 
-<img src="./linear1000_seed=98.png" alt="linear1000_seed=98" style="zoom:80%;" /><img src="./linear1000_seed=124.png" alt="linear1000_seed=124" style="zoom:80%;" />
+<img src="/Users/moreez/Desktop/BcThesis/GitHub/BcThesisMK/Moritz_folder/different_seeds/linear1000_seed=98.png" alt="linear1000_seed=98" style="zoom:80%;" /><img src="/Users/moreez/Desktop/BcThesis/GitHub/BcThesisMK/Moritz_folder/different_seeds/linear1000_seed=124.png" alt="linear1000_seed=124" style="zoom:80%;" />
 
-<img src="./linear1000_seed=555.png" alt="linear1000_seed=555" style="zoom:80%;" /><img src="./linear1000_seed=9.png" alt="linear1000_seed=9" style="zoom:80%;" />
+<img src="/Users/moreez/Desktop/BcThesis/GitHub/BcThesisMK/Moritz_folder/different_seeds/linear1000_seed=555.png" alt="linear1000_seed=555" style="zoom:80%;" /><img src="/Users/moreez/Desktop/BcThesis/GitHub/BcThesisMK/Moritz_folder/different_seeds/linear1000_seed=9.png" alt="linear1000_seed=9" style="zoom:80%;" />
 
