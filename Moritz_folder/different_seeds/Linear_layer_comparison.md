@@ -95,7 +95,7 @@ mean standard deviation of layer 7.bias: 0.0316
 
 ### histogram of the weights at interesting features (6, 8, 15, 32)
 
-<img src="hist_f6_s7.png" alt="hist_f6_s7" style="zoom:67%;" /><img src="hist_f8_s7.png" alt="hist_f8_s7" style="zoom:67%;" />![hist_f15_s7](hist_f15_s7.png)<img src="hist_f8_s7.png" alt="hist_f8_s7" style="zoom:67%;" />![hist_f15_s7](hist_f15_s7.png)
+<img src="hist_f6_s7.png" alt="hist_f6_s7" style="zoom:67%;" /><img src="hist_f8_s7.png" alt="hist_f8_s7" style="zoom:67%;" /><img src="hist_f15_s7.png" alt="hist_f15_s7" style="zoom:67%;" />
 
 <img src="hist_f32_s7.png" alt="hist_f32_s7" style="zoom:67%;" />
 
