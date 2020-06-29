@@ -6,7 +6,7 @@
 
 <img src="std_vis_s=10p=00001.png" alt="std_vis_s=10p=00001" style="zoom: 67%;" /><img src="std_vis_s=10p=0001.png" alt="std_vis_s=10p=0001" style="zoom:67%;" /><img src="std_vis_s=10p=001.png" alt="std_vis_s=10p=001" style="zoom:67%;" /><img src="std_vis_s=10p=01.png" alt="std_vis_s=10p=01" style="zoom:67%;" /><img src="std_vis_s=10p=1.png" alt="std_vis_s=10p=1" style="zoom:67%;" /><img src="std_vis_s=10p=1000.png" alt="std_vis_s=10p=1000" style="zoom:67%;" /> 
 
-######in high precision (e.g. 1000), every value is identical:
+###### in high precision (e.g. 1000), every value is identical:
 
 ```
 tensor([[0.0316, 0.0316, 0.0316,  ..., 0.0316, 0.0316, 0.0316],
