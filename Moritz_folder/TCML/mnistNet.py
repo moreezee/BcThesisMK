@@ -76,7 +76,7 @@ loss_function = torch.nn.CrossEntropyLoss()
 
 mnist_train_optimizer = torch.optim.Adam(mnist_model.parameters(), lr=1e-3, weight_decay=5e-4)
 #dont use SGD, it is way worse than Adam here
-MNIST_PATH = "trained_weights/MNIST_weights_seed={}.pth".format(s)
+MNIST_PATH = "model/MNIST_weights_seed={}.pth".format(s)
 
 
 # helper function to get accuracy
@@ -115,7 +115,7 @@ def train(verbose=False, num_iter=5):
 train(verbose=True, num_iter=5)
 
 #predict in distribution
-MNIST_PATH = "trained_weights/MNIST_weights_seed={}.pth".format(s)
+MNIST_PATH = "model/MNIST_weights_seed={}.pth".format(s)
 
 mnist_model = NN(num_classes=10)
 print("loading model from: {}".format(MNIST_PATH))

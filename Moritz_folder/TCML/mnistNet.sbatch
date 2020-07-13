@@ -50,7 +50,7 @@ cp -R /common/datasets/MNIST/ /scratch/$SLURM_JOB_ID/
 #minstNet.py <model save path> <mnist data path>
 ####
 
-singularity exec /common/singularityImages/legacy/TCML-Cuda10_0Tensorflow1_13.simg python3 ~/tutorialNetwork/cnn_mnist.py ~/tutorialNetwork/model/ /scratch/$SLURM_JOB_ID/MNIST/
+singularity exec /common/singularityImages/legacy/TCML-Cuda10_0Tensorflow1_13.simg python3 ~/TCMLTestJob/mnistNet.py ~/TCMLTestJob/model/ /scratch/$SLURM_JOB_ID/MNIST/
 
 echo DONE!
 
