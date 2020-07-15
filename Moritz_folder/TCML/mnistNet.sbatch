@@ -42,7 +42,7 @@
 #b) copy all needed data to the jobs scratch folder
 ####
 
-cp -R /common/datasets/MNIST/ /scratch/$SLURM_JOB_ID/
+#cp -R /common/datasets/MNIST/ /scratch/$SLURM_JOB_ID/
 
 ####
 #c) Execute your tensorflow code in a specific singularity container

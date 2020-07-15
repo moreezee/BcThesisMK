@@ -26,14 +26,14 @@ MNIST_transform = transforms.Compose([
 
 
 MNIST_train = torchvision.datasets.MNIST(
-        '../../../common/datasets/MNIST',
+        './data/',
         train=True,
-        download=False,
+        download=True,
         transform=MNIST_transform)
 
 
 MNIST_test = torchvision.datasets.MNIST(
-        '../../../common/datasets/MNIST',
+        './data/',
         train=False,
         download=False,
         transform=MNIST_transform)
