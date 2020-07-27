@@ -1,0 +1,146 @@
+#header
+Bootstrap: docker
+From: nvidia/cuda:10.1-cudnn7-devel-ubuntu16.04
+
+#Sections
+
+%help
+Singularity image of the  tensorflow/tensorflow:1.13.1-gpu-py3 docker container.
+OS: Ubuntu 16.04
+Cuda: 10.1
+Cupy:
+Scikit Cuda:
+Tensorflow-gpu: 1.13.1
+Keras: 2.2.4
+Python: 3.7.7
+Pytorch 1.5.1 (untested)
+OpenCV 4.1.0 (untested)
+
+%setup
+# commands ecexuted on the host system after os has been installed
+
+%files
+# copy files from the host system here
+
+
+
+%labels
+# information labels about the container  saved in /.singularity.d/labels.json
+  maintainer Maximus Mutschler <maximus.mutschler@uni-tuebingen.de>
+  Version v0.1
+# overwrite  True= to be able to build it multiple times
+  overwrite False 
+  tensorflow_gpu.version 1.13.1
+  keras.version 2.2.4
+  pytorch.version 1.5.1
+  python.version 3.7.7
+  opencv.version 4.1.0
+
+%environment
+# set environment variables
+
+
+
+%post
+#commands executed inside the container after os has been installed. Used for setup of the container
+#devine env variables for build time
+
+# Install the commonly used packages (from repo)
+
+# Install the commonly used packages (from repo)
+    apt-get update && apt-get install -y --no-install-recommends \
+        apt-utils \
+        build-essential \
+        curl \
+        git \
+        libopenblas-dev \
+        libcurl4-openssl-dev \
+        libfreetype6-dev \
+        libpng-dev \
+        libzmq3-dev \
+        locales \
+        python-pip \
+        pkg-config \
+        python-dev \
+        python-setuptools \
+        rsync \
+        software-properties-common \
+        unzip \
+        vim \
+        zip \
+        zlib1g-dev
+
+
+# Set up some required environment defaults
+#MC issue with locale (LC_ALL, LANGUAGE), to get it right:
+    #locale-gen "en_US.UTF-8" 
+    #dpkg-reconfigure locales 
+    #export LANGUAGE="en_US.UTF-8"
+    #echo 'LANGUAGE="en_US.UTF-8"' >> /etc/default/locale
+    #echo 'LC_ALL="en_US.UTF-8"' >> /etc/default/locale
+
+    # Update to the latest pip (newer than repo)
+    pip install --no-cache-dir --upgrade pip
+    
+    #for OpenBLAS accelerated Python3 NumPy, install through pip3
+    apt-get install -y python3-pip
+    #pip3 install --no-cache-dir --upgrade pip
+    pip3 install --no-cache-dir --upgrade future matplotlib scipy
+
+    # Install other commonly-needed python packages
+    pip3 install --no-cache-dir --upgrade \
+        future \
+        matplotlib \
+        scipy 
+
+
+pip3 install opencv-contrib-python
+python3 -m pip install keras
+pip3 install tensorflow-gpu
+CUDA_PATH=/usr/local/cuda pip3 install cupy-cuda101 
+CUDA_ROOT=/usr/local/cuda PATH=$PATH:/usr/local/cuda/bin pip3 install scikit-cuda 
+pip3 install pyro4
+pip3 install pandas
+pip3 install torchvision
+pip3 install torch==1.5.1
+pip3 install backpack-for-pytorch
+apt-get update
+apt-get -y install python3-tk
+apt-get -y install python-opencv
+pip3 install opencv-contrib-python
+pip3 install appdirs requests
+
+
+
+
+
+%runscript
+# commands that are run when container's run command is used
+
+
+%test
+# validate setup at the end of the build process
+
+	echo '------------------------------------------------------------------'
+	echo 'Versions of installed tools:'
+	echo 'setuptools:' $(pip3 show setuptools | grep Version)
+	echo 'pandas:' $(pip3 show pandas | grep Version)
+	echo 'scikit-cuda:' $(pip3 show scikit-cuda | grep Version)
+	echo 'cupy:' $(pip3 show cupy | grep Version)
+	echo 'pyro4:' $(pip3 show pyro4 | grep Version)
+	echo 'tensorflow-gpu:' $(pip3 show tensorflow-gpu | grep Version)
+        echo 'torch:' $(pip3 show torch | grep Version)
+        echo 'keras:' $(pip3 show keras | grep Version)
+       # echo 'cuda:' $(nvcc --version)
+	echo 'opencv:' python3 -c 'import cv2
+print(cv2.__version__)'
+	echo '------------------------------------------------------------------'
+
+
+
+#/usr/lib/x86_64-linux-gnu/libcuda.so.1
+
+
+
+
+
