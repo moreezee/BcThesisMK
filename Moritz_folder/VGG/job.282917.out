@@ -1,0 +1,919 @@
+pytorch version:  1.6.0
+cuda available:  True
+Files already downloaded and verified
+Files already downloaded and verified
+current learning rate:  0.1
+
+Epoch: 0
+train loss:  901.1207406520844
+train accuracy:  0.09972
+saving model at: ./checkpoint/ckpt_seed3.pth
+saving model at: ./checkpoint/best_ckpt_seed3.pth
+test loss:  182.16285347938538
+current acc: 0.1; best acc: 0.1
+
+Epoch: 1
+train loss:  901.0276117324829
+train accuracy:  0.1003
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  182.1284966468811
+current acc: 0.1; best acc: 0.1
+
+Epoch: 2
+train loss:  900.8636813163757
+train accuracy:  0.10024
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.99637913703918
+current acc: 0.1; best acc: 0.1
+
+Epoch: 3
+train loss:  900.9365766048431
+train accuracy:  0.10028
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  182.11939072608948
+current acc: 0.1; best acc: 0.1
+
+Epoch: 4
+train loss:  901.240177154541
+train accuracy:  0.09746
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  182.0862557888031
+current acc: 0.1; best acc: 0.1
+
+Epoch: 5
+train loss:  900.9799444675446
+train accuracy:  0.0987
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  182.01546621322632
+current acc: 0.1; best acc: 0.1
+
+Epoch: 6
+train loss:  900.9357216358185
+train accuracy:  0.10014
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  182.0479667186737
+current acc: 0.1; best acc: 0.1
+
+Epoch: 7
+train loss:  900.9015619754791
+train accuracy:  0.1007
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  182.05130577087402
+current acc: 0.1; best acc: 0.1
+
+Epoch: 8
+train loss:  901.0798785686493
+train accuracy:  0.0996
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  182.16101336479187
+current acc: 0.1; best acc: 0.1
+
+Epoch: 9
+train loss:  901.1111505031586
+train accuracy:  0.1003
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  182.0011270046234
+current acc: 0.1; best acc: 0.1
+
+Epoch: 10
+train loss:  900.9167914390564
+train accuracy:  0.1003
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.9968318939209
+current acc: 0.1; best acc: 0.1
+
+Epoch: 11
+train loss:  901.0487866401672
+train accuracy:  0.09856
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  182.01988196372986
+current acc: 0.1; best acc: 0.1
+
+Epoch: 12
+train loss:  901.1310451030731
+train accuracy:  0.09822
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.9618091583252
+current acc: 0.1; best acc: 0.1
+
+Epoch: 13
+train loss:  901.0466356277466
+train accuracy:  0.0976
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  182.00641894340515
+current acc: 0.1; best acc: 0.1
+
+Epoch: 14
+train loss:  901.0672132968903
+train accuracy:  0.0964
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  182.0406973361969
+current acc: 0.1; best acc: 0.1
+
+Epoch: 15
+train loss:  901.0836365222931
+train accuracy:  0.0978
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.94191813468933
+current acc: 0.1; best acc: 0.1
+
+Epoch: 16
+train loss:  900.9435687065125
+train accuracy:  0.10244
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  182.00590705871582
+current acc: 0.1; best acc: 0.1
+
+Epoch: 17
+train loss:  900.9917874336243
+train accuracy:  0.09958
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  182.04193949699402
+current acc: 0.1; best acc: 0.1
+
+Epoch: 18
+train loss:  900.9631245136261
+train accuracy:  0.0986
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  182.05479526519775
+current acc: 0.1; best acc: 0.1
+
+Epoch: 19
+train loss:  901.0027477741241
+train accuracy:  0.10048
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.98375463485718
+current acc: 0.1; best acc: 0.1
+
+Epoch: 20
+train loss:  901.0419979095459
+train accuracy:  0.09906
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  182.16986680030823
+current acc: 0.1; best acc: 0.1
+
+Epoch: 21
+train loss:  901.0695879459381
+train accuracy:  0.09698
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  182.0636031627655
+current acc: 0.1; best acc: 0.1
+
+Epoch: 22
+train loss:  900.9545323848724
+train accuracy:  0.10114
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  182.01598477363586
+current acc: 0.1; best acc: 0.1
+
+Epoch: 23
+train loss:  901.0821661949158
+train accuracy:  0.10014
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  182.019380569458
+current acc: 0.1; best acc: 0.1
+
+Epoch: 24
+train loss:  901.0601994991302
+train accuracy:  0.09864
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  182.07447814941406
+current acc: 0.1; best acc: 0.1
+
+Epoch: 25
+train loss:  901.0027410984039
+train accuracy:  0.09958
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  182.15695333480835
+current acc: 0.1; best acc: 0.1
+
+Epoch: 26
+train loss:  901.0026776790619
+train accuracy:  0.1009
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  182.0529749393463
+current acc: 0.1; best acc: 0.1
+
+Epoch: 27
+train loss:  901.0649697780609
+train accuracy:  0.09908
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.9516258239746
+current acc: 0.1; best acc: 0.1
+
+Epoch: 28
+train loss:  901.0599505901337
+train accuracy:  0.09856
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  182.04261350631714
+current acc: 0.1; best acc: 0.1
+
+Epoch: 29
+train loss:  901.0462989807129
+train accuracy:  0.09974
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  182.00343227386475
+current acc: 0.1; best acc: 0.1
+current learning rate:  0.01
+
+Epoch: 30
+train loss:  900.4730083942413
+train accuracy:  0.09872
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90665435791016
+current acc: 0.1; best acc: 0.1
+
+Epoch: 31
+train loss:  900.3926219940186
+train accuracy:  0.09852
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.9091398715973
+current acc: 0.1; best acc: 0.1
+
+Epoch: 32
+train loss:  900.4199583530426
+train accuracy:  0.09878
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90709972381592
+current acc: 0.1; best acc: 0.1
+
+Epoch: 33
+train loss:  900.3859889507294
+train accuracy:  0.09862
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.9158275127411
+current acc: 0.1; best acc: 0.1
+
+Epoch: 34
+train loss:  900.3903827667236
+train accuracy:  0.09946
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.91890382766724
+current acc: 0.1; best acc: 0.1
+
+Epoch: 35
+train loss:  900.4100677967072
+train accuracy:  0.09976
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.91243958473206
+current acc: 0.1; best acc: 0.1
+
+Epoch: 36
+train loss:  900.4222180843353
+train accuracy:  0.09712
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.91097283363342
+current acc: 0.1; best acc: 0.1
+
+Epoch: 37
+train loss:  900.4101724624634
+train accuracy:  0.0996
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.9034652709961
+current acc: 0.1; best acc: 0.1
+
+Epoch: 38
+train loss:  900.3933701515198
+train accuracy:  0.1006
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.91731357574463
+current acc: 0.1; best acc: 0.1
+
+Epoch: 39
+train loss:  900.3995122909546
+train accuracy:  0.09878
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.91397738456726
+current acc: 0.1; best acc: 0.1
+
+Epoch: 40
+train loss:  900.3982882499695
+train accuracy:  0.09966
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.9155056476593
+current acc: 0.1; best acc: 0.1
+
+Epoch: 41
+train loss:  900.393393278122
+train accuracy:  0.09868
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.91115498542786
+current acc: 0.1; best acc: 0.1
+
+Epoch: 42
+train loss:  900.4137325286865
+train accuracy:  0.09862
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.91254472732544
+current acc: 0.1; best acc: 0.1
+
+Epoch: 43
+train loss:  900.3841297626495
+train accuracy:  0.10032
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.91063237190247
+current acc: 0.1; best acc: 0.1
+
+Epoch: 44
+train loss:  900.4217820167542
+train accuracy:  0.09646
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.9084072113037
+current acc: 0.1; best acc: 0.1
+
+Epoch: 45
+train loss:  900.4260320663452
+train accuracy:  0.0983
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.92005705833435
+current acc: 0.1; best acc: 0.1
+
+Epoch: 46
+train loss:  900.4017059803009
+train accuracy:  0.1005
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90904450416565
+current acc: 0.1; best acc: 0.1
+
+Epoch: 47
+train loss:  900.4020884037018
+train accuracy:  0.10032
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90971684455872
+current acc: 0.1; best acc: 0.1
+
+Epoch: 48
+train loss:  900.3974103927612
+train accuracy:  0.10014
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90978574752808
+current acc: 0.1; best acc: 0.1
+
+Epoch: 49
+train loss:  900.4112703800201
+train accuracy:  0.09694
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.9110186100006
+current acc: 0.1; best acc: 0.1
+
+Epoch: 50
+train loss:  900.4105775356293
+train accuracy:  0.09734
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.9155924320221
+current acc: 0.1; best acc: 0.1
+
+Epoch: 51
+train loss:  900.4021210670471
+train accuracy:  0.09938
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.91208004951477
+current acc: 0.1; best acc: 0.1
+
+Epoch: 52
+train loss:  900.4071698188782
+train accuracy:  0.09906
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.91220259666443
+current acc: 0.1; best acc: 0.1
+
+Epoch: 53
+train loss:  900.4268565177917
+train accuracy:  0.09848
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90660047531128
+current acc: 0.1; best acc: 0.1
+
+Epoch: 54
+train loss:  900.398604631424
+train accuracy:  0.09898
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.9062945842743
+current acc: 0.1; best acc: 0.1
+
+Epoch: 55
+train loss:  900.3929264545441
+train accuracy:  0.09864
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.91432785987854
+current acc: 0.1; best acc: 0.1
+
+Epoch: 56
+train loss:  900.398229598999
+train accuracy:  0.10006
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.91002798080444
+current acc: 0.1; best acc: 0.1
+
+Epoch: 57
+train loss:  900.3914391994476
+train accuracy:  0.0989
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.91212487220764
+current acc: 0.1; best acc: 0.1
+
+Epoch: 58
+train loss:  900.4091196060181
+train accuracy:  0.10058
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.9129614830017
+current acc: 0.1; best acc: 0.1
+
+Epoch: 59
+train loss:  900.3937773704529
+train accuracy:  0.10218
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.91112875938416
+current acc: 0.1; best acc: 0.1
+
+Epoch: 60
+train loss:  900.4194610118866
+train accuracy:  0.0989
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90508460998535
+current acc: 0.1; best acc: 0.1
+
+Epoch: 61
+train loss:  900.410603761673
+train accuracy:  0.09734
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.9052107334137
+current acc: 0.1; best acc: 0.1
+
+Epoch: 62
+train loss:  900.3935968875885
+train accuracy:  0.09748
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.9166877269745
+current acc: 0.1; best acc: 0.1
+
+Epoch: 63
+train loss:  900.3842425346375
+train accuracy:  0.09816
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.91553854942322
+current acc: 0.1; best acc: 0.1
+
+Epoch: 64
+train loss:  900.3908421993256
+train accuracy:  0.09956
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.91373419761658
+current acc: 0.1; best acc: 0.1
+
+Epoch: 65
+train loss:  900.3848700523376
+train accuracy:  0.0998
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.92025709152222
+current acc: 0.1; best acc: 0.1
+
+Epoch: 66
+train loss:  900.4078259468079
+train accuracy:  0.10014
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.9066355228424
+current acc: 0.1; best acc: 0.1
+
+Epoch: 67
+train loss:  900.411280632019
+train accuracy:  0.0974
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90466904640198
+current acc: 0.1; best acc: 0.1
+
+Epoch: 68
+train loss:  900.4066009521484
+train accuracy:  0.09876
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90989017486572
+current acc: 0.1; best acc: 0.1
+
+Epoch: 69
+train loss:  900.3867383003235
+train accuracy:  0.10022
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.91955709457397
+current acc: 0.1; best acc: 0.1
+
+Epoch: 70
+train loss:  900.4140672683716
+train accuracy:  0.09804
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90741109848022
+current acc: 0.1; best acc: 0.1
+
+Epoch: 71
+train loss:  900.3935642242432
+train accuracy:  0.10046
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.91757917404175
+current acc: 0.1; best acc: 0.1
+
+Epoch: 72
+train loss:  900.4122543334961
+train accuracy:  0.09894
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.91061067581177
+current acc: 0.1; best acc: 0.1
+
+Epoch: 73
+train loss:  900.4097476005554
+train accuracy:  0.09796
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90543293952942
+current acc: 0.1; best acc: 0.1
+
+Epoch: 74
+train loss:  900.4010541439056
+train accuracy:  0.09856
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.91427040100098
+current acc: 0.1; best acc: 0.1
+
+Epoch: 75
+train loss:  900.4062132835388
+train accuracy:  0.09828
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.91153645515442
+current acc: 0.1; best acc: 0.1
+
+Epoch: 76
+train loss:  900.4047698974609
+train accuracy:  0.0983
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.91364789009094
+current acc: 0.1; best acc: 0.1
+
+Epoch: 77
+train loss:  900.392370223999
+train accuracy:  0.0988
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.91301584243774
+current acc: 0.1; best acc: 0.1
+
+Epoch: 78
+train loss:  900.4062023162842
+train accuracy:  0.09926
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.91374683380127
+current acc: 0.1; best acc: 0.1
+
+Epoch: 79
+train loss:  900.413515329361
+train accuracy:  0.09732
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90783429145813
+current acc: 0.1; best acc: 0.1
+current learning rate:  0.001
+
+Epoch: 80
+train loss:  900.3441598415375
+train accuracy:  0.09922
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90542650222778
+current acc: 0.1; best acc: 0.1
+
+Epoch: 81
+train loss:  900.3335068225861
+train accuracy:  0.1
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.9042911529541
+current acc: 0.1; best acc: 0.1
+
+Epoch: 82
+train loss:  900.3271110057831
+train accuracy:  0.1
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90385150909424
+current acc: 0.1; best acc: 0.1
+
+Epoch: 83
+train loss:  900.3242900371552
+train accuracy:  0.0973
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90398788452148
+current acc: 0.1; best acc: 0.1
+
+Epoch: 84
+train loss:  900.3262531757355
+train accuracy:  0.09762
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90426182746887
+current acc: 0.1; best acc: 0.1
+
+Epoch: 85
+train loss:  900.3230018615723
+train accuracy:  0.09844
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90441012382507
+current acc: 0.1; best acc: 0.1
+
+Epoch: 86
+train loss:  900.3229370117188
+train accuracy:  0.098
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90428829193115
+current acc: 0.1; best acc: 0.1
+
+Epoch: 87
+train loss:  900.3226540088654
+train accuracy:  0.0979
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90418362617493
+current acc: 0.1; best acc: 0.1
+
+Epoch: 88
+train loss:  900.3219244480133
+train accuracy:  0.0963
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.9040560722351
+current acc: 0.1; best acc: 0.1
+
+Epoch: 89
+train loss:  900.3235111236572
+train accuracy:  0.09718
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90404081344604
+current acc: 0.1; best acc: 0.1
+
+Epoch: 90
+train loss:  900.3227543830872
+train accuracy:  0.09804
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90407991409302
+current acc: 0.1; best acc: 0.1
+
+Epoch: 91
+train loss:  900.3223485946655
+train accuracy:  0.09762
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90411496162415
+current acc: 0.1; best acc: 0.1
+
+Epoch: 92
+train loss:  900.3231773376465
+train accuracy:  0.09808
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90399956703186
+current acc: 0.1; best acc: 0.1
+
+Epoch: 93
+train loss:  900.3222880363464
+train accuracy:  0.09816
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90419745445251
+current acc: 0.1; best acc: 0.1
+
+Epoch: 94
+train loss:  900.3243412971497
+train accuracy:  0.09604
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90413641929626
+current acc: 0.1; best acc: 0.1
+
+Epoch: 95
+train loss:  900.3226172924042
+train accuracy:  0.09696
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90422654151917
+current acc: 0.1; best acc: 0.1
+
+Epoch: 96
+train loss:  900.3234555721283
+train accuracy:  0.09622
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90417456626892
+current acc: 0.1; best acc: 0.1
+
+Epoch: 97
+train loss:  900.3218131065369
+train accuracy:  0.09816
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.9042408466339
+current acc: 0.1; best acc: 0.1
+
+Epoch: 98
+train loss:  900.3234326839447
+train accuracy:  0.09702
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90415906906128
+current acc: 0.1; best acc: 0.1
+
+Epoch: 99
+train loss:  900.3251874446869
+train accuracy:  0.09698
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90427660942078
+current acc: 0.1; best acc: 0.1
+
+Epoch: 100
+train loss:  900.3235545158386
+train accuracy:  0.0952
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90400004386902
+current acc: 0.1; best acc: 0.1
+
+Epoch: 101
+train loss:  900.3244326114655
+train accuracy:  0.0957
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90428614616394
+current acc: 0.1; best acc: 0.1
+
+Epoch: 102
+train loss:  900.3229041099548
+train accuracy:  0.09634
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.9043960571289
+current acc: 0.1; best acc: 0.1
+
+Epoch: 103
+train loss:  900.3239600658417
+train accuracy:  0.09734
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90420770645142
+current acc: 0.1; best acc: 0.1
+
+Epoch: 104
+train loss:  900.3233268260956
+train accuracy:  0.09668
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90426516532898
+current acc: 0.1; best acc: 0.1
+
+Epoch: 105
+train loss:  900.3243110179901
+train accuracy:  0.09658
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90415954589844
+current acc: 0.1; best acc: 0.1
+
+Epoch: 106
+train loss:  900.323370218277
+train accuracy:  0.09804
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90423703193665
+current acc: 0.1; best acc: 0.1
+
+Epoch: 107
+train loss:  900.3226191997528
+train accuracy:  0.09772
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90439343452454
+current acc: 0.1; best acc: 0.1
+
+Epoch: 108
+train loss:  900.3233888149261
+train accuracy:  0.09608
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90438199043274
+current acc: 0.1; best acc: 0.1
+
+Epoch: 109
+train loss:  900.3221125602722
+train accuracy:  0.09898
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.9043791294098
+current acc: 0.1; best acc: 0.1
+
+Epoch: 110
+train loss:  900.3232798576355
+train accuracy:  0.09878
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90444135665894
+current acc: 0.1; best acc: 0.1
+
+Epoch: 111
+train loss:  900.3233218193054
+train accuracy:  0.09616
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90459847450256
+current acc: 0.1; best acc: 0.1
+
+Epoch: 112
+train loss:  900.3226454257965
+train accuracy:  0.09718
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90452933311462
+current acc: 0.1; best acc: 0.1
+
+Epoch: 113
+train loss:  900.323563337326
+train accuracy:  0.09706
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90427947044373
+current acc: 0.1; best acc: 0.1
+
+Epoch: 114
+train loss:  900.3245079517365
+train accuracy:  0.09646
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90447068214417
+current acc: 0.1; best acc: 0.1
+
+Epoch: 115
+train loss:  900.3218083381653
+train accuracy:  0.09816
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90432333946228
+current acc: 0.1; best acc: 0.1
+
+Epoch: 116
+train loss:  900.3224930763245
+train accuracy:  0.09804
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90437030792236
+current acc: 0.1; best acc: 0.1
+
+Epoch: 117
+train loss:  900.3225750923157
+train accuracy:  0.09758
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.9043447971344
+current acc: 0.1; best acc: 0.1
+
+Epoch: 118
+train loss:  900.3214702606201
+train accuracy:  0.09936
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.9044315814972
+current acc: 0.1; best acc: 0.1
+
+Epoch: 119
+train loss:  900.323183298111
+train accuracy:  0.09798
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90425777435303
+current acc: 0.1; best acc: 0.1
+
+Epoch: 120
+train loss:  900.322065114975
+train accuracy:  0.09764
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90426874160767
+current acc: 0.1; best acc: 0.1
+
+Epoch: 121
+train loss:  900.3237383365631
+train accuracy:  0.09852
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90412044525146
+current acc: 0.1; best acc: 0.1
+
+Epoch: 122
+train loss:  900.3226227760315
+train accuracy:  0.09742
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90428352355957
+current acc: 0.1; best acc: 0.1
+
+Epoch: 123
+train loss:  900.3221504688263
+train accuracy:  0.09836
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90423250198364
+current acc: 0.1; best acc: 0.1
+
+Epoch: 124
+train loss:  900.3235211372375
+train accuracy:  0.09664
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90417194366455
+current acc: 0.1; best acc: 0.1
+
+Epoch: 125
+train loss:  900.3227281570435
+train accuracy:  0.09684
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.9041781425476
+current acc: 0.1; best acc: 0.1
+
+Epoch: 126
+train loss:  900.3226227760315
+train accuracy:  0.09754
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.9041428565979
+current acc: 0.1; best acc: 0.1
+
+Epoch: 127
+train loss:  900.3229484558105
+train accuracy:  0.09702
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.9040286540985
+current acc: 0.1; best acc: 0.1
+
+Epoch: 128
+train loss:  900.3234491348267
+train accuracy:  0.0977
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.90408873558044
+current acc: 0.1; best acc: 0.1
+
+Epoch: 129
+train loss:  900.322544336319
+train accuracy:  0.09878
+saving model at: ./checkpoint/ckpt_seed3.pth
+test loss:  181.9042353630066
+current acc: 0.1; best acc: 0.1
+DONE!
